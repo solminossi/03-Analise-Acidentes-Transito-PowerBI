@@ -71,7 +71,7 @@ Todo o processo foi realizado buscando manter consistência entre os indicadores
 
 ---
 
-📸 Visão Geral do Dashboard
+## 📸 Visão Geral do Dashboard
 
 ![Visão Geral](visao-geral.png)
 
@@ -155,11 +155,11 @@ O vídeo apresenta uma navegação completa pelo dashboard e demonstra a intera�
 
 - README.md
 - Acidentes_Solange_v1.pbix
-- visao-geral.png
 - capa.png
 - pagina1.png
 - pagina2.png
 - pagina3.png
+- - visao-geral.png
 - demonstracao-dashboard.mp4
   
 
