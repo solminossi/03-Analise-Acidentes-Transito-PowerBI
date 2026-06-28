@@ -153,17 +153,15 @@ O vídeo apresenta uma navegação completa pelo dashboard e demonstra a intera�
 
 # 📁 Estrutura do repositório
 
-README.md
-Acidentes_Solange_v1.pbix
-visao-geral.png
-capa.png
-pagina1.png
-pagina2.png
-pagina3.png
-demonstracao-dashboard.mp4
-```
-
----
+- README.md
+- Acidentes_Solange_v1.pbix
+- visao-geral.png
+- capa.png
+- pagina1.png
+- pagina2.png
+- pagina3.png
+- demonstracao-dashboard.mp4
+  
 
 # 👩‍💻 Autora
 
