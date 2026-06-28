@@ -109,11 +109,11 @@ Nesta página são apresentados os principais indicadores relacionados ao moment
 
 Análise dos fatores relacionados aos acidentes, permitindo identificar:
 
-* Tipos de acidentes;
-* Causas mais frequentes;
-* Condições meteorológicas;
-* Tipo de pista;
-* Traçado da via.
+- Tipos de acidentes;
+- Causas mais frequentes;
+- Condições meteorológicas;
+- Tipo de pista;
+- Traçado da via.
 
 ---
 
