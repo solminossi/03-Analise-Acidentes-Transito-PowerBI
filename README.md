@@ -71,15 +71,23 @@ Todo o processo foi realizado buscando manter consistência entre os indicadores
 
 ---
 
-# 📊 Dashboard
+📸 Visão Geral do Dashboard
 
-## 📸 Capa
+![Visão Geral](Visão Geral1.png)
 
-*Imagem da capa do dashboard.*
+
+## 📸## 📸 Capa
+
+Página inicial do projeto, apresentando o objetivo da análise e a estrutura geral do dashboard.
+
+![Capa](Capa1.png)
+
 
 ---
 
 ## 📸 Página 1 — Quando acontece
+
+![Página 1](Quando acontece1.png)
 
 Nesta página são apresentados os indicadores relacionados ao momento em que os acidentes ocorrem, incluindo:
 
@@ -96,6 +104,8 @@ Nesta página são apresentados os indicadores relacionados ao momento em que os
 
 ## 📸 Página 2 — Como acontece
 
+![Página 2](Como Acontece1.png)
+
 Análise dos fatores relacionados aos acidentes, permitindo identificar:
 
 * Tipos de acidentes;
@@ -107,6 +117,8 @@ Análise dos fatores relacionados aos acidentes, permitindo identificar:
 ---
 
 ## 📸 Página 3 — Onde acontece
+
+![Página 3](Onde Acontece1.png)
 
 Análise espacial dos acidentes, incluindo:
 
