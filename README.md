@@ -76,6 +76,7 @@ Todo o processo foi realizado buscando manter consistência entre os indicadores
 ![Visão Geral](Visão Geral1.png)
 
 
+
 ## 📸## 📸 Capa
 
 Página inicial do projeto, apresentando o objetivo da análise e a estrutura geral do dashboard.
