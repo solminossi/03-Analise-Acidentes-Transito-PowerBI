@@ -73,7 +73,7 @@ Todo o processo foi realizado buscando manter consistência entre os indicadores
 
 📸 Visão Geral do Dashboard
 
-![Visão Geral](Visão Geral1.png)
+![Visão Geral](visao-geral.png)
 
 
 
@@ -88,7 +88,7 @@ Página inicial do projeto, apresentando o objetivo da análise e a estrutura ge
 
 ## 📸 Página 1 — Quando acontece
 
-![Página 1](Quando acontece1.png)
+![Página 1](pagina1.png)
 
 Nesta página são apresentados os indicadores relacionados ao momento em que os acidentes ocorrem, incluindo:
 
@@ -105,7 +105,7 @@ Nesta página são apresentados os indicadores relacionados ao momento em que os
 
 ## 📸 Página 2 — Como acontece
 
-![Página 2](Como Acontece1.png)
+![Página 2](pagina2.png)
 
 Análise dos fatores relacionados aos acidentes, permitindo identificar:
 
@@ -119,7 +119,7 @@ Análise dos fatores relacionados aos acidentes, permitindo identificar:
 
 ## 📸 Página 3 — Onde acontece
 
-![Página 3](Onde Acontece1.png)
+![Página 3](pagina3.png)
 
 Análise espacial dos acidentes, incluindo:
 
