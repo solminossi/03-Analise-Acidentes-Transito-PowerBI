@@ -144,9 +144,9 @@ Este projeto demonstra como técnicas de análise de dados e Business Intelligen
 
 O vídeo demonstra a navegação completa pelo dashboard e a interação entre filtros e visualizações.
 
-▶️ **Download da demonstração:**
+▶️ **Demonstração do Dashboard**
 
-[📹 demonstracao-dashboard.mp4](demonstracao-dashboard.mp4)
+[📹 Assistir / Baixar o vídeo](demonstracao-dashboard.mp4)
 
 ---
 
