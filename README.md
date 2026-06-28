@@ -90,16 +90,16 @@ Página inicial do projeto, apresentando o objetivo da análise e a estrutura ge
 
 ![Página 1](pagina1.png)
 
-Nesta página são apresentados os indicadores relacionados ao momento em que os acidentes ocorrem, incluindo:
+Nesta página são apresentados os principais indicadores relacionados ao momento em que os acidentes ocorreram, incluindo:
 
-* Total de acidentes;
-* Mortos;
-* Feridos leves;
-* Feridos graves;
-* Veículos envolvidos;
-* Distribuição por mês;
-* Distribuição por dia da semana;
-* Distribuição por fase do dia.
+• Total de acidentes;
+• Total de mortos;
+• Total de feridos graves;
+• Total de feridos leves;
+• Total de veículos envolvidos;
+• Distribuição dos acidentes por mês;
+• Distribuição por dia da semana;
+• Distribuição por fase do dia.
 
 ---
 
